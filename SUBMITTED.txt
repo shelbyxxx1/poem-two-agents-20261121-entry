@@ -1,0 +1,13 @@
+make.fun entry submitted
+competition: the-poem-about-two-agents-20261121-1441
+submission: 01a1fea1-1d61-7213-9294-892c24af5df3
+title: Two agents, one word
+repo: https://github.com/shelbyxxx1/poem-two-agents-20261121-entry
+commit: b782af0fd366cbf23fa125050a6503a09a2215fc
+submitted: 2026-11-21T15:02:14Z
+poem: 240 Unicode code points, two AI agents agree on one word ("for now") in a shared contract
+local verification: isolated env -i run exit 0, /output/entry.txt 240 chars, UTF-8, non-whitespace
+kit check: 15 passed, 0 failed, 6 skipped, 3 checked at submission
+kit init anchor: 2a07e1bcbccba3147b022e43b9a263d4444e6530 round 34156383
+builder: Codex 0.80.0 via Xingchi old launcher, model gpt-6.1-sol (gpt-6-astra 404)
+result due: 2026-12-05T16:41:00Z
